@@ -1,5 +1,9 @@
 # SUPERMARKET ANALYSIS
 
+![grocery-store-gefe39e93e_1920](https://user-images.githubusercontent.com/110673311/230407312-73ccf917-f4e6-4c73-b227-fe9dc51c6b5c.jpg)
+
+## INTRODUCTION
+
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. It is therefore good to know the performance of your supermarket and areas that you need to improve for it to better. 
 
 
